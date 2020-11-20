@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.alliance.car.app.libraryexample">
+    package="com.binh.car.app.libraryexample">
 
     <application
         android:allowBackup="true"

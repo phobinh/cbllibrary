@@ -1,4 +1,4 @@
-package com.alliance.car.app.testlibrary;
+package com.binh.car.app.testlibrary;
 
 import android.content.Context;
 

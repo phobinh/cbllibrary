@@ -1,4 +1,4 @@
-package com.alliance.car.app.testlibrary;
+package com.binh.car.app.testlibrary;
 
 public class Const {
     public static final int CONST_1 = 10;
